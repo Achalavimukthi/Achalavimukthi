@@ -1,6 +1,3 @@
-Here's an updated version of your `README.md` including the React web application for tracking university requests:
-
----
 
 # 👋 Hello! I'm Achalavimukthi
 
