@@ -43,7 +43,3 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 Did you know? I once built an entire e-commerce website from scratch just to see how the online shopping experience could be improved!
 
 Thank you for visiting my profile. If you have any questions or just want to chat about tech, feel free to drop me a message!
-
----
-
-Feel free to adjust or expand this README as needed to best represent your work and interests!
