@@ -27,7 +27,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 - 📧 [Email](mailto:achala.infogate@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/achala-wimukthi-7790b911a/)
-- 🐦 [Twitter](https://x.com/AchalaWimukthi)
+- ✖️ [X](https://x.com/AchalaWimukthi)
 
 ## 🎯 Goals
 
