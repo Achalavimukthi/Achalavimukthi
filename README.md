@@ -14,6 +14,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a deep interest in
 - **Ceylon-Trails**: A mobile app guiding tourists through Sri Lanka's most popular places with detailed descriptions, images, and Google Maps integration.
 - **Car Brand Identifier**: A Streamlit app using a pre-trained ResNet50 model to classify car images and identify their brand and model.
 - **University Request Tracker**: A React web application designed to track and manage university requests. This application allows users to submit, monitor, and manage requests efficiently, providing an intuitive interface and real-time updates.
+- **Hospital Management System**: A comprehensive system built using Java and MySQL to manage hospital operations such as patient records, appointment scheduling, and staff management, improving overall efficiency and coordination.
+- **E-commerce Pharmacy Website**: An online platform developed using HTML, CSS, PHP, and JavaScript that allows users to browse, search, and purchase pharmaceutical products, featuring a secure checkout and product tracking system.
+- **E-commerce Clothing Website**: An online store created using the Wix platform for a fashion brand, featuring an intuitive interface, product filtering options, and secure payment gateways to enhance user shopping experience.
 
 ## 💻 Technologies & Tools
 
