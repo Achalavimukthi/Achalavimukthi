@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a deep interest in
 
 - **Languages**: Python, Java, JavaScript
 - **Frameworks**: TensorFlow, Streamlit, React, Android Studio
-- **Tools**: Git, GitHub, Docker, VSCode
+- **Tools**: Git, GitHub, VSCode
 
 ## 🤝 Let's Connect
 
