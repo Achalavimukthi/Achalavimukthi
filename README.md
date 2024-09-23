@@ -1,5 +1,5 @@
 
-# 👋 Hello! I'm Achalavimukthi
+# 👋 Hello! I'm Achala
 
 Welcome to my GitHub profile! I'm a passionate developer with a deep interest in technology and innovation. Whether you're here to check out my projects or just curious about who I am, you've come to the right place!
 
