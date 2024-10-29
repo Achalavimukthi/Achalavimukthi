@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achala Wimukthi</h1>
 <h3 align="center">IT Undergraduate | Trainee Software Engineer | Web Developereveloper</h3>
 
-- 👨‍💻 All of my projects are available at [Here!](https://achalavimukthi.github.io/)
+- 👨‍💻 Dive Into My Creative Journey: [Portfolio!](https://achalavimukthi.github.io/)
 
 - 📫 How to reach me **achala.infogate@gmail.com**
 
